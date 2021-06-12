@@ -1,3 +1,14 @@
+## LIVE DEMO
+https://netflix-59f56.web.app/
+
+## Technologies used
+▸ React.js
+▸ Redux
+▸ Tmdb api
+▸ Firebase
+▸ Styled components
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
